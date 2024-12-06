@@ -8,3 +8,7 @@ fn main(){
   println("Hello World");
 }
 ```
+
+- [x] 吃饭
+- [ ] 睡觉
+- [ ] 打豆豆
